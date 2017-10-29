@@ -1,3 +1,3 @@
 print "Hello Python"
 
-print "Good Morning"
+print "Good"
