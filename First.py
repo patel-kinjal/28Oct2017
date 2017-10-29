@@ -1,3 +1,5 @@
 print "Hello Python"
 
-print "Good"
+msg = "Variable added"
+
+print msg
